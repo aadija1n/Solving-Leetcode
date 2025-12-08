@@ -1,2 +1,4 @@
 
 1925. Count Square Sum Triples
+
+Solution - Java
