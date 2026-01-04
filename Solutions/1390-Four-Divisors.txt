@@ -1,7 +1,4 @@
 
-
-Code
-Testcase
-Test Result
-Test Result
 1390. Four Divisors
+
+Solution - Java
