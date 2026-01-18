@@ -1,0 +1,4 @@
+
+1895. Largest Magic Square
+
+Solution - Java
