@@ -1,0 +1,14 @@
+
+744. Find Smallest Letter Greater Than Target
+
+Solution - Java
+
+class Solution {
+    public char nextGreatestLetter(char[] letters, char target) {
+        char r = letters[0];
+        for(char a:letters){
+            if(a>target){r=a;break;}
+        }
+        return r;
+    }
+}
